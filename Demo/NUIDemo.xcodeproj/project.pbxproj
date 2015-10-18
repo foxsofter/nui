@@ -1106,6 +1106,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1E043EFF5B2E44ADB1F5461C /* Pods-NUIDemo.xcconfig */;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NUIDemo/NUIDemo-Prefix.pch";
 				INFOPLIST_FILE = "NUIDemo/NUIDemo-Info.plist";
@@ -1120,6 +1121,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1E043EFF5B2E44ADB1F5461C /* Pods-NUIDemo.xcconfig */;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "NUIDemo/NUIDemo-Prefix.pch";
 				INFOPLIST_FILE = "NUIDemo/NUIDemo-Info.plist";
